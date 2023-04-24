@@ -1,0 +1,5 @@
+packages = ["astropy", 
+            "astroquery",
+            "requests",
+            "pyodide-http",
+            "ssl"]
